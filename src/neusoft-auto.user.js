@@ -3,7 +3,7 @@
 // @namespace    neusoft-auto-answer
 // @version      1.0
 // @description  自动答题：单选/多选/判断，支持手动选中、自动翻页
-// @author       github.com/your-username/neusoft-auto-answer
+// @author       github.com/j84102273-dot/neusoft-auto-answer
 // @match        https://study.neusoft.edu.cn/*
 // @grant        none
 // @run-at       document-start
